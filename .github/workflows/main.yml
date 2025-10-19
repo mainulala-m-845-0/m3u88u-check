@@ -1,64 +1,42 @@
-name: Check M3U Playlist Streams
+name: 🔍 HLS Playlist Checker
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual triggering
-  push:
-    branches:
-      - main  # Runs on push to main branch
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
 
 jobs:
-  check-m3u-streams:
+  check-hls:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🧰 Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'  # Specify Python version
+          python-version: "3.11"
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: 📦 Install dependencies
+        run: pip install requests
 
-      - name: Run M3U stream checker
-        env:
-          PLAYLIST_URL: 'https://raw.githubusercontent.com/moajzim47/moajzimofficials/9902d23e34d9c7a747ff2846d78e1c4151252df9/It%27s-Unique-Hex-MoAj-STREAMZ-PLAY.M3U'
-        run: |
-          python check_m3u.py --url "$PLAYLIST_URL" --output m3u_playlist_check_results.txt --workers 10 --timeout 10
+      - name: 🚀 Run HLS Checker
+        run: python hls_checker_pro.py
 
-      - name: Upload results as artifact
+      - name: 📤 Upload report artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: m3u-check-results
-          path: m3u_playlist_check_results.txt
-          retention-days: 7
+          name: hls-check-results
+          path: |
+            hls_check_results.md
+            hls_check_results.html
+            live_links.m3u
 
-      - name: Commit and push results
+      - name: 💾 Commit results to repo
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add m3u_playlist_check_results.txt m3u_check.log
-          git commit -m "Update M3U stream check results - $(date -u)"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
-
-      - name: Create issue on failure
-        if: failure()
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: 'M3U Stream Check Failed',
-              body: 'The M3U stream checker workflow failed. Please check the logs for details.'
-            })
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add hls_check_results.md hls_check_results.html live_links.m3u || true
+          git commit -m "🔄 Auto update HLS check results $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes"
+          git push || echo "No push"
