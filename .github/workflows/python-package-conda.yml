@@ -1,0 +1,33 @@
+name: 🔁 HLS Stream Checker
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # runs every hour
+  workflow_dispatch:
+
+jobs:
+  check-hls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎️ Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: ▶️ Run HLS checker
+        run: python hls_checker_pro.py
+
+      - name: 🧾 Commit results
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add hls_check_results.md hls_check_results.html live_links.m3u
+          git commit -m "🛰️ Auto update HLS stream check results" || echo "No changes to commit"
+          git push
