@@ -1,93 +1,64 @@
-import requests
-import re
+name: Check M3U Playlist Streams
 
-# URL of the M3U playlist
-playlist_url = "https://raw.githubusercontent.com/moajzim47/moajzimofficials/9902d23e34d9c7a747ff2846d78e1c4151252df9/It's-Unique-Hex-MoAj-STREAMZ-PLAY.M3U"
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+  push:
+    branches:
+      - main  # Runs on push to main branch
 
-# Default headers
-default_headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-}
+jobs:
+  check-m3u-streams:
+    runs-on: ubuntu-latest
 
-# Function to parse M3U playlist and extract stream URLs
-def parse_m3u(content):
-    streams = []
-    lines = content.splitlines()
-    current_stream = {}
-    
-    for line in lines:
-        line = line.strip()
-        if line.startswith("#EXTINF:"):
-            # Extract channel name and other attributes
-            match = re.search(r'#EXTINF:-?\d+\s*(?:.*?,)?(.+)', line)
-            if match:
-                current_stream["name"] = match.group(1).strip()
-            # Extract tvg-logo if present
-            logo_match = re.search(r'tvg-logo="([^"]+)"', line)
-            if logo_match:
-                current_stream["logo"] = logo_match.group(1)
-            # Extract group-title if present
-            group_match = re.search(r'group-title="([^"]+)"', line)
-            if group_match:
-                current_stream["group"] = group_match.group(1)
-        elif line and not line.startswith("#"):
-            # This is a URL
-            current_stream["url"] = line
-            # Extract referer or user-agent from URL if present
-            current_stream["referer"] = None
-            current_stream["user_agent"] = None
-            if "|Referer=" in line:
-                current_stream["url"], current_stream["referer"] = line.split("|Referer=")
-            if "|User-Agent=" in line:
-                parts = current_stream["url"].split("|User-Agent=")
-                current_stream["url"] = parts[0]
-                current_stream["user_agent"] = parts[1]
-            streams.append(current_stream)
-            current_stream = {}
-    
-    return streams
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-# Function to check a single URL
-def check_url(stream):
-    headers = default_headers.copy()
-    if stream.get("referer"):
-        headers["Referer"] = stream["referer"]
-    if stream.get("user_agent"):
-        headers["User-Agent"] = stream["user_agent"]
-    
-    try:
-        response = requests.get(stream["url"], headers=headers, timeout=10)
-        status = "Live" if response.status_code == 200 else f"Down (Status: {response.status_code})"
-        return f"Channel: {stream.get('name', 'Unknown')}\nURL: {stream['url']}\nStatus: {status}\nGroup: {stream.get('group', 'N/A')}\nLogo: {stream.get('logo', 'N/A')}\n---"
-    except requests.RequestException as e:
-        return f"Channel: {stream.get('name', 'Unknown')}\nURL: {stream['url']}\nStatus: Down\nError: {str(e)}\nGroup: {stream.get('group', 'N/A')}\nLogo: {stream.get('logo', 'N/A')}\n---"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'  # Specify Python version
 
-# Main logic
-try:
-    # Fetch the M3U playlist
-    response = requests.get(playlist_url, headers=default_headers, timeout=10)
-    if response.status_code != 200:
-        print(f"Failed to fetch playlist: Status {response.status_code}")
-        exit(1)
-    
-    # Parse the M3U content
-    streams = parse_m3u(response.text)
-    if not streams:
-        print("No valid streams found in the M3U playlist.")
-        exit(1)
-    
-    # Check each stream URL
-    results = []
-    for stream in streams:
-        result = check_url(stream)
-        results.append(result)
-        print(result)  # Print to console for immediate feedback
-    
-    # Save results to file
-    with open("m3u_playlist_check_results.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(results))
-    
-    print("Results saved to m3u_playlist_check_results.txt")
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-except requests.RequestException as e:
-    print(f"Error fetching playlist: {str(e)}")
+      - name: Run M3U stream checker
+        env:
+          PLAYLIST_URL: 'https://raw.githubusercontent.com/moajzim47/moajzimofficials/9902d23e34d9c7a747ff2846d78e1c4151252df9/It%27s-Unique-Hex-MoAj-STREAMZ-PLAY.M3U'
+        run: |
+          python check_m3u.py --url "$PLAYLIST_URL" --output m3u_playlist_check_results.txt --workers 10 --timeout 10
+
+      - name: Upload results as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: m3u-check-results
+          path: m3u_playlist_check_results.txt
+          retention-days: 7
+
+      - name: Commit and push results
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add m3u_playlist_check_results.txt m3u_check.log
+          git commit -m "Update M3U stream check results - $(date -u)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'M3U Stream Check Failed',
+              body: 'The M3U stream checker workflow failed. Please check the logs for details.'
+            })
