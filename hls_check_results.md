@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-10-21 02:04:11 UTC
+**Checked:** 2025-10-21 03:43:20 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -261,7 +261,7 @@
 | 256 | 35.AMAR BANGLA | ✅ Live | - | [Link](https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8) |
 | 257 | 36.BANGLA TV + | ❌ Dead | - | [Link](https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8) |
 | 258 | 37.TV 9 BANGLA | ✅ Live | - | [Link](https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8) |
-| 259 | 38.ABP ANANDA | ❌ Dead | - | [Link](https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8) |
+| 259 | 38.ABP ANANDA | ✅ Live | - | [Link](https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8) |
 | 260 | Unknown | ❌ Dead | - | [Link](https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8) |
 | 261 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8) |
 | 262 | 39.DW NEWS | ✅ Live | - | [Link](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8) |
