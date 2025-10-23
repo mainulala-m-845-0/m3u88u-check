@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-10-23 14:32:24 UTC
+**Checked:** 2025-10-23 15:32:10 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -287,7 +287,7 @@
 | 282 | Unknown | ❌ Dead | - | [Link](http://147.93.154.65/Bein3/index.m3u8) |
 | 283 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/file/opplex/stream.m3u8?id=167590&e=.m3u8) |
 | 284 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/test/live.php?id=f19328c5c772&e=.m3u8) |
-| 285 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8) |
+| 285 | Unknown | ✅ Live | - | [Link](https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8) |
 | 286 | Unknown | ✅ Live | - | [Link](http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8) |
 | 287 | Unknown | ❌ Dead | - | [Link](http://172.31.235.10:8080/hls/34-tsportssd/index.m3u8) |
 | 288 | Unknown | ✅ Live | - | [Link](https://bongoflixbd.top/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&format=.m3u8) |
@@ -537,7 +537,7 @@
 | 532 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=66164&|User-Agent=RANAPK) |
 | 533 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-hd&format=.m3u8) |
 | 534 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonyentertainmnt_hd&format=.m3u8) |
-| 535 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009246) |
+| 535 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009246) |
 | 536 | 65.SONY WAH | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=75) |
 | 537 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8) |
 | 538 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8) |
