@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-10-23 11:26:32 UTC
+**Checked:** 2025-10-23 12:47:10 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -799,7 +799,7 @@
 | 794 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/382221) |
 | 795 | Unknown | ❌ Dead | - | [Link](http://atg100.xyz:80/0C61D0216480/08360415DD6D/1019034) |
 | 796 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXzz/play.m3u8?id=382221&|User-Agent=RANAPK) |
-| 797 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
+| 797 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
 | 798 | 93.STAR UTSAV MOVIES | ❌ Dead | - | [Link](http://opplex.ch/3873620/9312/112977/112971) |
 | 799 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
 | 800 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112977&|User-Agent=RANAPK) |
@@ -1042,7 +1042,7 @@
 | 1037 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=307079&format=.m3u8|User-Agent=RANAPK) |
 | 1038 | 120.Rongeen | ❌ Dead | - | [Link](http://opplex.tv:8080/live/315587154/331264554/308282.ts) |
 | 1039 | Unknown | ✅ Live | - | [Link](https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8) |
-| 1040 | Unknown | ❌ Dead | - | [Link](https://cdn-4.pishow.tv/live/1029/master.m3u8) |
+| 1040 | Unknown | ✅ Live | - | [Link](https://cdn-4.pishow.tv/live/1029/master.m3u8) |
 | 1041 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8) |
 | 1042 | Unknown | ✅ Live | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8) |
 | 1043 | 121.9XM | ❌ Dead | - | [Link](https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8) |
