@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-05 18:41:42 UTC
+**Checked:** 2025-11-05 19:25:39 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -128,7 +128,7 @@
 | 123 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/dbcnews/index.m3u8) |
 | 124 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8) |
 | 125 | 16.INDEPENDENT TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v) |
-| 126 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
+| 126 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
 | 127 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12123) |
 | 128 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3) |
 | 129 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/independenttv/index.m3u8) |
@@ -1006,7 +1006,7 @@
 | 1001 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8) |
 | 1002 | Unknown | ❌ Dead | - | [Link](https://tataplaymt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8) |
 | 1003 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8) |
-| 1004 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000001971) |
+| 1004 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000001971) |
 | 1005 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonyyay&format=.m3u8) |
 | 1006 | 116.GUBBARE | ❌ Dead | - | [Link](https://epiconvh.s.llnwi.net/gubbare/master.m3u8) |
 | 1007 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN__KG/tracks-v1a1/mono.m3u8) |
