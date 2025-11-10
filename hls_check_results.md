@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-10 09:35:20 UTC
+**Checked:** 2025-11-10 10:34:49 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -148,7 +148,7 @@
 | 143 | 19.BOISHAKHI TV | ❌ Dead | - | [Link](http://tv.mototvlive.net:8880/TAJUL90/9001747424845/16379) |
 | 144 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12114) |
 | 145 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245923) |
-| 146 | Unknown | ❌ Dead | - | [Link](https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8) |
+| 146 | Unknown | ✅ Live | - | [Link](https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8) |
 | 147 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/boishakhitv/index.m3u8) |
 | 148 | Unknown | ✅ Live | https://statiics.ncare.live | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8) |
 | 149 | 20.MOHONA TV | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/245920) |
