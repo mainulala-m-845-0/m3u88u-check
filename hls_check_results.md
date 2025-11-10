@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-10 17:28:46 UTC
+**Checked:** 2025-11-10 18:33:19 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -109,7 +109,7 @@
 | 104 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/jamunatv/index.m3u8) |
 | 105 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8) |
 | 106 | 14.SOMOY TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=4ed08af5) |
-| 107 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8) |
+| 107 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8) |
 | 108 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=11206) |
 | 109 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245925) |
 | 110 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3) |
@@ -615,7 +615,7 @@
 | 610 | 74.AND PICTURE HD | ❌ Dead | - | [Link](http://starshare.live:8080//Leroy123/Leroy123/231) |
 | 611 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/66181) |
 | 612 | Unknown | ❌ Dead | - | [Link](https://la.drmlive.au/tp/zee-tvpictureshd.m3u8) |
-| 613 | Unknown | ✅ Live | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
+| 613 | Unknown | ❌ Dead | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
 | 614 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48135) |
 | 615 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=51272) |
 | 616 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX2/play.m3u8?id=66181) |
