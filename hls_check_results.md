@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-11 10:34:56 UTC
+**Checked:** 2025-11-11 11:27:33 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -107,7 +107,7 @@
 | 102 | Unknown | ❌ Dead | - | [Link](https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8) |
 | 103 | Unknown | ❌ Dead | - | [Link](https://ayna-three.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8) |
 | 104 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/jamunatv/index.m3u8) |
-| 105 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8) |
+| 105 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8) |
 | 106 | 14.SOMOY TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=4ed08af5) |
 | 107 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8) |
 | 108 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=11206) |
@@ -372,9 +372,9 @@
 | 367 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=167578&format=.m3u8|User-Agent=RANAPK) |
 | 368 | 48.STAR SPORTS SELECT 2 HD | ❌ Dead | - | [Link](http://webhop.xyz:8080/shoaib/shoaib/148801) |
 | 369 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/167579.ts) |
-| 370 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
+| 370 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
 | 371 | Unknown | ❌ Dead | - | [Link](http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-2) |
-| 372 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
+| 372 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
 | 373 | Unknown | ❌ Dead | - | [Link](http://dns.denver1769.fun/Files/Port/oplx5.m3u8?id=167579|User-Agent=Denver1769) |
 | 374 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/op141.m3u8?id=167579) |
 | 375 | Unknown | ❌ Dead | - | [Link](https://rex-streaming.vercel.app/api/x/167579.m3u8) |
@@ -410,7 +410,7 @@
 | 405 | Unknown | ❌ Dead | - | [Link](https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8) |
 | 406 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=167580&|User-Agent=RANAPK) |
 | 407 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8) |
-| 408 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009275) |
+| 408 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009275) |
 | 409 | 53.PTV SPORTS HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/217968.ts) |
 | 410 | Unknown | ❌ Dead | - | [Link](http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8) |
 | 411 | Unknown | ❌ Dead | - | [Link](https://cric-hex.tiiny.io/play.php?id=ptvpk) |
@@ -542,7 +542,7 @@
 | 537 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8) |
 | 538 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8) |
 | 539 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-wah&format=.m3u8) |
-| 540 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009253) |
+| 540 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009253) |
 | 541 | 66.SONY PIX HD | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=785) |
 | 542 | Unknown | ❌ Dead | - | [Link](http://opplex.ch/23jan.waqar/992211/66224) |
 | 543 | Unknown | ❌ Dead | - | [Link](https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8) |
@@ -551,7 +551,7 @@
 | 546 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=66224&|User-Agent=RANAPK) |
 | 547 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8) |
 | 548 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonypix_hd&format=.m3u8) |
-| 549 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009258) |
+| 549 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009258) |
 | 550 | 67.SONY SAB HD | ❌ Dead | - | [Link](https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg) |
 | 551 | Unknown | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=1201) |
 | 552 | Unknown | ❌ Dead | - | [Link](http://opplex.ch/23jan.waqar/992211/66174) |
@@ -574,7 +574,7 @@
 | 569 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=66189&|User-Agent=RANAPK) |
 | 570 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8) |
 | 571 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonymax_2&format=.m3u8) |
-| 572 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000044878) |
+| 572 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000044878) |
 | 573 | 69.SONY KAL | ❌ Dead | - | [Link](https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8) |
 | 574 | Unknown | ✅ Live | - | [Link](https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8) |
 | 575 | 70.SONY PAL | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=1894) |
@@ -615,7 +615,7 @@
 | 610 | 74.AND PICTURE HD | ❌ Dead | - | [Link](http://starshare.live:8080//Leroy123/Leroy123/231) |
 | 611 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/66181) |
 | 612 | Unknown | ❌ Dead | - | [Link](https://la.drmlive.au/tp/zee-tvpictureshd.m3u8) |
-| 613 | Unknown | ✅ Live | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
+| 613 | Unknown | ❌ Dead | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
 | 614 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48135) |
 | 615 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=51272) |
 | 616 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX2/play.m3u8?id=66181) |
@@ -799,7 +799,7 @@
 | 794 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/382221) |
 | 795 | Unknown | ❌ Dead | - | [Link](http://atg100.xyz:80/0C61D0216480/08360415DD6D/1019034) |
 | 796 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXzz/play.m3u8?id=382221&|User-Agent=RANAPK) |
-| 797 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
+| 797 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
 | 798 | 93.STAR UTSAV MOVIES | ❌ Dead | - | [Link](http://opplex.ch/3873620/9312/112977/112971) |
 | 799 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
 | 800 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112977&|User-Agent=RANAPK) |
