@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-11 04:35:45 UTC
+**Checked:** 2025-11-11 05:31:40 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -92,7 +92,7 @@
 | 87 | 11.Ekushey ETV | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245937.ts) |
 | 88 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12080) |
 | 89 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245937) |
-| 90 | Unknown | ❌ Dead | - | [Link](https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
+| 90 | Unknown | ✅ Live | - | [Link](https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
 | 91 | Unknown | ✅ Live | - | [Link](http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
 | 92 | Unknown | ❌ Dead | - | [Link](https://ayna-three.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8) |
 | 93 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/etv/index.m3u8) |
@@ -801,7 +801,7 @@
 | 796 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXzz/play.m3u8?id=382221&|User-Agent=RANAPK) |
 | 797 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
 | 798 | 93.STAR UTSAV MOVIES | ❌ Dead | - | [Link](http://opplex.ch/3873620/9312/112977/112971) |
-| 799 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
+| 799 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
 | 800 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112977&|User-Agent=RANAPK) |
 | 801 | Unknown | ❌ Dead | - | [Link](https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8) |
 | 802 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/file/opplex/stream.m3u8?id=112977&e=.m3u8) |
