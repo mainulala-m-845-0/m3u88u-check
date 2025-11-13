@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-13 13:01:51 UTC
+**Checked:** 2025-11-13 13:43:33 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -31,7 +31,7 @@
 | 26 | Unknown | ❌ Dead | - | [Link](http://isp.top10bhaluka.com/tv/stream.m3u8?id=ATN-BANGLA) |
 | 27 | Unknown | ❌ Dead | - | [Link](https://ayna-three.vercel.app/api/stream/9046949b-9847-4b5d-96c1-e82b0734444b.m3u8) |
 | 28 | Unknown | ❌ Dead | - | [Link](https://tvsen5.aynaott.com/atnbangla/index.m3u8) |
-| 29 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8) |
+| 29 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8) |
 | 30 | 4.ATN NEWS | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=d1bcbbc6) |
 | 31 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=11199) |
 | 32 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245905) |
@@ -374,7 +374,7 @@
 | 369 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/167579.ts) |
 | 370 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
 | 371 | Unknown | ❌ Dead | - | [Link](http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-2) |
-| 372 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
+| 372 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
 | 373 | Unknown | ❌ Dead | - | [Link](http://dns.denver1769.fun/Files/Port/oplx5.m3u8?id=167579|User-Agent=Denver1769) |
 | 374 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/op141.m3u8?id=167579) |
 | 375 | Unknown | ❌ Dead | - | [Link](https://rex-streaming.vercel.app/api/x/167579.m3u8) |
@@ -615,7 +615,7 @@
 | 610 | 74.AND PICTURE HD | ❌ Dead | - | [Link](http://starshare.live:8080//Leroy123/Leroy123/231) |
 | 611 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/66181) |
 | 612 | Unknown | ❌ Dead | - | [Link](https://la.drmlive.au/tp/zee-tvpictureshd.m3u8) |
-| 613 | Unknown | ❌ Dead | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
+| 613 | Unknown | ✅ Live | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
 | 614 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48135) |
 | 615 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=51272) |
 | 616 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX2/play.m3u8?id=66181) |
