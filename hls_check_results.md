@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-14 12:59:27 UTC
+**Checked:** 2025-11-14 13:39:29 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -615,7 +615,7 @@
 | 610 | 74.AND PICTURE HD | ❌ Dead | - | [Link](http://starshare.live:8080//Leroy123/Leroy123/231) |
 | 611 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/66181) |
 | 612 | Unknown | ❌ Dead | - | [Link](https://la.drmlive.au/tp/zee-tvpictureshd.m3u8) |
-| 613 | Unknown | ✅ Live | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
+| 613 | Unknown | ❌ Dead | - | [Link](http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86) |
 | 614 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48135) |
 | 615 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=51272) |
 | 616 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX2/play.m3u8?id=66181) |
@@ -1108,7 +1108,7 @@
 | 1103 | Unknown | ✅ Live | - | [Link](https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8) |
 | 1104 | 131.YRF MUSIC | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8) |
 | 1105 | Unknown | ✅ Live | - | [Link](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8) |
-| 1106 | 132.E24 MUSIC | ✅ Live | - | [Link](https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8) |
+| 1106 | 132.E24 MUSIC | ❌ Dead | - | [Link](https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8) |
 | 1107 | 133.ZOOM | ❌ Dead | - | [Link](https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8) |
 | 1108 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/66190.ts) |
 | 1109 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8) |
