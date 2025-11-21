@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-11-21 03:50:19 UTC
+**Checked:** 2025-11-21 04:35:14 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -148,7 +148,7 @@
 | 143 | 19.BOISHAKHI TV | ❌ Dead | - | [Link](http://tv.mototvlive.net:8880/TAJUL90/9001747424845/16379) |
 | 144 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12114) |
 | 145 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245923) |
-| 146 | Unknown | ✅ Live | - | [Link](https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8) |
+| 146 | Unknown | ❌ Dead | - | [Link](https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8) |
 | 147 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/boishakhitv/index.m3u8) |
 | 148 | Unknown | ✅ Live | https://statiics.ncare.live | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8) |
 | 149 | 20.MOHONA TV | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/245920) |
@@ -196,7 +196,7 @@
 | 191 | Unknown | ✅ Live | - | [Link](https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8) |
 | 192 | 25.MOVIE BANGLA | ✅ Live | - | [Link](http://alvetv.com/moviebanglatv/8080/index.m3u8) |
 | 193 | 26.EKATTOR TV HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245915.ts) |
-| 194 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8) |
+| 194 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8) |
 | 195 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12122) |
 | 196 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245915) |
 | 197 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3) |
@@ -246,14 +246,14 @@
 | 241 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/satv/index.m3u8) |
 | 242 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=d07563b0-7580-4cbd-a7c9-e67535c0164a&format=.m3u8) |
 | 243 | Unknown | ✅ Live | - | [Link](https://live.mncdn.shop/d07563b0-7580-4cbd-a7c9-e67535c0164a/index.m3u8) |
-| 244 | 33.ENTER 10 BANGLA | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8) |
+| 244 | 33.ENTER 10 BANGLA | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8) |
 | 245 | Unknown | ❌ Dead | - | [Link](https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8) |
 | 246 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=58173) |
 | 247 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3) |
 | 248 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8) |
 | 249 | Unknown | ✅ Live | - | [Link](https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8) |
 | 250 | Unknown | ✅ Live | - | [Link](https://live-bangla.akamaized.net/liveabr/playlist.m3u8) |
-| 251 | 34.SANANDA TV | ❌ Dead | - | [Link](http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8) |
+| 251 | 34.SANANDA TV | ✅ Live | - | [Link](http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8) |
 | 252 | Unknown | ❌ Dead | - | [Link](https://matribhumi.globalplay.live/matribhumi-sports/index.m3u8) |
 | 253 | Unknown | ✅ Live | - | [Link](http://208.86.19.13:81/514.stream/index.m3u8) |
 | 254 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8) |
@@ -372,7 +372,7 @@
 | 367 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=167578&format=.m3u8|User-Agent=RANAPK) |
 | 368 | 48.STAR SPORTS SELECT 2 HD | ❌ Dead | - | [Link](http://webhop.xyz:8080/shoaib/shoaib/148801) |
 | 369 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/167579.ts) |
-| 370 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
+| 370 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
 | 371 | Unknown | ❌ Dead | - | [Link](http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-2) |
 | 372 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
 | 373 | Unknown | ❌ Dead | - | [Link](http://dns.denver1769.fun/Files/Port/oplx5.m3u8?id=167579|User-Agent=Denver1769) |
