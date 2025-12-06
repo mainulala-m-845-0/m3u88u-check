@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-12-06 10:31:28 UTC
+**Checked:** 2025-12-06 11:24:46 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -528,7 +528,7 @@
 | 523 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8) |
 | 524 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-aath&format=.m3u8) |
 | 525 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonyaath&format=.m3u8) |
-| 526 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009255) |
+| 526 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009255) |
 | 527 | 64.SONY HD | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=1100) |
 | 528 | Unknown | ❌ Dead | - | [Link](http://opplex.ch/23jan.waqar/992211/66164) |
 | 529 | Unknown | ❌ Dead | - | [Link](https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8) |
@@ -1006,7 +1006,7 @@
 | 1001 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8) |
 | 1002 | Unknown | ❌ Dead | - | [Link](https://tataplaymt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8) |
 | 1003 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8) |
-| 1004 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000001971) |
+| 1004 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000001971) |
 | 1005 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonyyay&format=.m3u8) |
 | 1006 | 116.GUBBARE | ❌ Dead | - | [Link](https://epiconvh.s.llnwi.net/gubbare/master.m3u8) |
 | 1007 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN__KG/tracks-v1a1/mono.m3u8) |
