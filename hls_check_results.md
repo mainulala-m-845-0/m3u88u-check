@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-12-06 13:35:35 UTC
+**Checked:** 2025-12-06 14:28:09 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -193,7 +193,7 @@
 | 188 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/live/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8) |
 | 189 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/banglatv/index.m3u8) |
 | 190 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&format=.m3u8) |
-| 191 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8) |
+| 191 | Unknown | ✅ Live | - | [Link](https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8) |
 | 192 | 25.MOVIE BANGLA | ✅ Live | - | [Link](http://alvetv.com/moviebanglatv/8080/index.m3u8) |
 | 193 | 26.EKATTOR TV HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245915.ts) |
 | 194 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8) |
@@ -388,7 +388,7 @@
 | 383 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8) |
 | 384 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=167570&|User-Agent=RANAPK) |
 | 385 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8) |
-| 386 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009276) |
+| 386 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009276) |
 | 387 | 50.SONY SPORTS TEN 2 HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/167571.ts) |
 | 388 | Unknown | ❌ Dead | https://mhdstream.com/sliv/ | [Link](https://mhdstream.com/sliv/stream.m3u8?id=96585698) |
 | 389 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8) |
@@ -542,7 +542,7 @@
 | 537 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8) |
 | 538 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8) |
 | 539 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-wah&format=.m3u8) |
-| 540 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009253) |
+| 540 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009253) |
 | 541 | 66.SONY PIX HD | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=785) |
 | 542 | Unknown | ❌ Dead | - | [Link](http://opplex.ch/23jan.waqar/992211/66224) |
 | 543 | Unknown | ❌ Dead | - | [Link](https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8) |
@@ -574,7 +574,7 @@
 | 569 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=66189&|User-Agent=RANAPK) |
 | 570 | Unknown | ❌ Dead | - | [Link](https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8) |
 | 571 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonymax_2&format=.m3u8) |
-| 572 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000044878) |
+| 572 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000044878) |
 | 573 | 69.SONY KAL | ❌ Dead | - | [Link](https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8) |
 | 574 | Unknown | ✅ Live | - | [Link](https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8) |
 | 575 | 70.SONY PAL | ❌ Dead | https://keralamaxtv.com/ | [Link](https://keralamaxtv.com/sliv/stream.php?id=1894) |
@@ -801,7 +801,7 @@
 | 796 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXzz/play.m3u8?id=382221&|User-Agent=RANAPK) |
 | 797 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
 | 798 | 93.STAR UTSAV MOVIES | ❌ Dead | - | [Link](http://opplex.ch/3873620/9312/112977/112971) |
-| 799 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
+| 799 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
 | 800 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112977&|User-Agent=RANAPK) |
 | 801 | Unknown | ❌ Dead | - | [Link](https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8) |
 | 802 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/file/opplex/stream.m3u8?id=112977&e=.m3u8) |
