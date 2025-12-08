@@ -54,6 +54,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgvDgxZf/Sananda.jpg" group-title="Entertainment",34.SANANDA TV
 http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
+https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1mY4Dj/TV-9-Bangla.jpg" group-title="News",37.TV 9 BANGLA
@@ -63,7 +64,11 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTPxwKmy/Dw.jpg" group-title="News",39.DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+http://stvlive.net:8080/tsports1/index.m3u8
+http://103.175.242.10:8080/tsports1/index.m3u8
 https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
+http://stvlive.net:8080/starsports2/index.m3u8
+http://45.148.145.57/IND_SL2/index.m3u8
 https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/
@@ -82,6 +87,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/
 http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86
+http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://202.164.50.194:8000/play/a02d/index.m3u8
@@ -94,7 +100,6 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1029/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
