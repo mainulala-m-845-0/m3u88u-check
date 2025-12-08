@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-12-08 13:02:17 UTC
+**Checked:** 2025-12-08 13:46:06 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -20,7 +20,7 @@
 | 15 | 2.BTV HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245930.ts) |
 | 16 | Unknown | ❌ Dead | - | [Link](https://amit-1.allinonereborn.in/jiobe2.m3u8?id=6081) |
 | 17 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX2/play.m3u8?id=245930) |
-| 18 | Unknown | ✅ Live | - | [Link](http://103.230.105.252:1935/live/btv/index.m3u8) |
+| 18 | Unknown | ❌ Dead | - | [Link](http://103.230.105.252:1935/live/btv/index.m3u8) |
 | 19 | Unknown | ❌ Dead | - | [Link](http://38.96.178.201/live/BTV/index.m3u8) |
 | 20 | Unknown | ❌ Dead | - | [Link](https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8) |
 | 21 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/btvhd/index.m3u8) |
@@ -257,7 +257,7 @@
 | 252 | Unknown | ❌ Dead | - | [Link](https://matribhumi.globalplay.live/matribhumi-sports/index.m3u8) |
 | 253 | Unknown | ✅ Live | - | [Link](http://208.86.19.13:81/514.stream/index.m3u8) |
 | 254 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8) |
-| 255 | Unknown | ✅ Live | - | [Link](https://live.sanonda.tv/sanonda/index.m3u8) |
+| 255 | Unknown | ❌ Dead | - | [Link](https://live.sanonda.tv/sanonda/index.m3u8) |
 | 256 | 35.AMAR BANGLA | ❌ Dead | - | [Link](https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8) |
 | 257 | 36.BANGLA TV + | ✅ Live | - | [Link](https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8) |
 | 258 | 37.TV 9 BANGLA | ✅ Live | - | [Link](https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8) |
@@ -372,9 +372,9 @@
 | 367 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=167578&format=.m3u8|User-Agent=RANAPK) |
 | 368 | 48.STAR SPORTS SELECT 2 HD | ❌ Dead | - | [Link](http://webhop.xyz:8080/shoaib/shoaib/148801) |
 | 369 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/167579.ts) |
-| 370 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
+| 370 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
 | 371 | Unknown | ❌ Dead | - | [Link](http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-2) |
-| 372 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
+| 372 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
 | 373 | Unknown | ❌ Dead | - | [Link](http://dns.denver1769.fun/Files/Port/oplx5.m3u8?id=167579|User-Agent=Denver1769) |
 | 374 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/op141.m3u8?id=167579) |
 | 375 | Unknown | ❌ Dead | - | [Link](https://rex-streaming.vercel.app/api/x/167579.m3u8) |
@@ -913,7 +913,7 @@
 | 908 | Unknown | ❌ Dead | https://otttv.co.in/ | [Link](https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8) |
 | 909 | Unknown | ❌ Dead | - | [Link](https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8) |
 | 910 | Unknown | ❌ Dead | - | [Link](https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8) |
-| 911 | Unknown | ✅ Live | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009252) |
+| 911 | Unknown | ❌ Dead | https://nxtlive.net/ | [Link](https://nxtlive.net/sliv/stream.m3u8?id=1000009252) |
 | 912 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&format=.m3u8) |
 | 913 | 105.DISCOVERY SCIENCE | ❌ Dead | - | [Link](https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8) |
 | 914 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080//kamran800/800kamran/206289.ts) |
