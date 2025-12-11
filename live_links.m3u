@@ -78,6 +78,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgvDgxZf/Sananda.jpg" group-title="Entertainment",34.SANANDA TV
 http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
+https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1mY4Dj/TV-9-Bangla.jpg" group-title="News",37.TV 9 BANGLA
@@ -96,6 +97,7 @@ https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 http://stvlive.net:8080/starsports2/index.m3u8
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 https://tvsen6.aynaott.com/spsel1/index.m3u8
+http://45.148.145.57/IND_SL2/index.m3u8
 https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/
@@ -116,10 +118,9 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/
 http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
+http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 http://202.164.50.194:8000/play/a02d/index.m3u8
 https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
@@ -143,6 +144,7 @@ https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
+https://tvsen6.aynaott.com/MusicIndia/index.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1143
 https://cdn-4.pishow.tv/live/1143/master.m3u8
