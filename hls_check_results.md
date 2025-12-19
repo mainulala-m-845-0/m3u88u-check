@@ -1,12 +1,12 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-12-19 20:34:43 UTC
+**Checked:** 2025-12-19 21:28:42 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
 | 1 | moajzimofficials | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_Official_Connection.mp4?updatedAt=1749719086168) |
 | 2 | Unknown | ❌ Dead | - | [Link](https://i.postimg.cc/mZjmHNbb/IMG-1743439450071-2.png) |
 | 3 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/tata-tv1.php?id=58801) |
-| 4 | Unknown | ❌ Dead | - | [Link](https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8) |
+| 4 | Unknown | ✅ Live | - | [Link](https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8) |
 | 5 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//movie/315587154/331264554/391478.mkv) |
 | 6 | Unknown | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_OFFICIAL.mp4?updatedAt=1743421801221) |
 | 7 | Unknown | ❌ Dead | - | [Link](http://opplex.ch:8080/movie/SHO2393/4702393/393956.mkv) |
