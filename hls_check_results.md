@@ -1,12 +1,12 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-12-21 09:31:12 UTC
+**Checked:** 2025-12-21 10:31:24 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
 | 1 | moajzimofficials | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_Official_Connection.mp4?updatedAt=1749719086168) |
 | 2 | Unknown | ❌ Dead | - | [Link](https://i.postimg.cc/mZjmHNbb/IMG-1743439450071-2.png) |
 | 3 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/tata-tv1.php?id=58801) |
-| 4 | Unknown | ✅ Live | - | [Link](https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8) |
+| 4 | Unknown | ❌ Dead | - | [Link](https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8) |
 | 5 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//movie/315587154/331264554/391478.mkv) |
 | 6 | Unknown | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_OFFICIAL.mp4?updatedAt=1743421801221) |
 | 7 | Unknown | ❌ Dead | - | [Link](http://opplex.ch:8080/movie/SHO2393/4702393/393956.mkv) |
@@ -836,7 +836,7 @@
 | 831 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/c7f57cda-5a87-48c5-a758-4273db0864d2.m3u8) |
 | 832 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112972|User-Agent=RANAPK) |
 | 833 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=c7f57cda-5a87-48c5-a758-4273db0864d2&format=.m3u8) |
-| 834 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/Goldmines/index.m3u8) |
+| 834 | Unknown | ✅ Live | - | [Link](https://tvsen6.aynaott.com/Goldmines/index.m3u8) |
 | 835 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/file/opplex/stream.m3u8?id=112972&e=.m3u8) |
 | 836 | Unknown | ✅ Live | - | [Link](https://cdn-2.pishow.tv/live/1459/master.m3u8) |
 | 837 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=112972&format=.m3u8|User-Agent=RANAPK) |
@@ -857,11 +857,11 @@
 | 852 | Unknown | ❌ Dead | - | [Link](http://opplex.ch:8080/SHO2393/4702393/112973) |
 | 853 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_StarGold2/index.m3u8) |
 | 854 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112973&|User-Agent=RANAPK) |
-| 855 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8) |
+| 855 | Unknown | ✅ Live | - | [Link](https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8) |
 | 856 | Unknown | ❌ Dead | - | [Link](http://nayatv.ydns.eu:80/xfireflix/flixfire/12346.ts) |
 | 857 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/353f1b20-3f65-4477-8251-6c3c58a3a12e.m3u8) |
 | 858 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/live/353f1b20-3f65-4477-8251-6c3c58a3a12e/index.m3u8) |
-| 859 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/Dhinchaak/index.m3u8) |
+| 859 | Unknown | ✅ Live | - | [Link](https://tvsen6.aynaott.com/Dhinchaak/index.m3u8) |
 | 860 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=353f1b20-3f65-4477-8251-6c3c58a3a12e&format=.m3u8) |
 | 861 | Unknown | ✅ Live | - | [Link](http://202.164.50.194:8000/play/a02d/index.m3u8) |
 | 862 | 99.B4U MOVIE | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/104199.ts) |
@@ -1023,7 +1023,7 @@
 | 1018 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=167551&format=.m3u8|User-Agent=RANAPK) |
 | 1019 | 118.DISCOVERY KIDS | ❌ Dead | - | [Link](https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8) |
 | 1020 | Unknown | ❌ Dead | https://cdn-toffee.iptvbd.xyz/ | [Link](https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_kids&e=.m3u8) |
-| 1021 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8) |
+| 1021 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8) |
 | 1022 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080/live/315587154/331264554/76723.ts) |
 | 1023 | Unknown | ❌ Dead | https://mhdtvstream.com | [Link](https://mhdtvstream.com/live.php?id=554&extension=.m3u8) |
 | 1024 | Unknown | ❌ Dead | - | [Link](http://port.denver1769.fun/oplx5.m3u8?id=76723|User-Agent=Denver1769) |
