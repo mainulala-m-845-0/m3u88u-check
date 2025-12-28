@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2025-12-28 02:00:49 UTC
+**Checked:** 2025-12-28 02:35:46 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -418,7 +418,7 @@
 | 413 | Unknown | ❌ Dead | - | [Link](http://atg100.xyz:80/443432469215731/4362020837/63126) |
 | 414 | Unknown | ❌ Dead | https://tv.mymoviebazar.net/ | [Link](https://tv.mymoviebazar.net/stream/stream57.m3u8) |
 | 415 | Unknown | ❌ Dead | - | [Link](https://topstream.space/crhd/stream.php?id=ptvpk) |
-| 416 | Unknown | ✅ Live | - | [Link](https://tvsen5.aynaott.com/Ptvsports/index.m3u8) |
+| 416 | Unknown | ❌ Dead | - | [Link](https://tvsen5.aynaott.com/Ptvsports/index.m3u8) |
 | 417 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXt/play.m3u8?id=217968&|User-Agent=RANAPK) |
 | 418 | Unknown | ❌ Dead | - | [Link](https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk) |
 | 419 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/file/opplex/stream.m3u8?id=217968&e=.m3u8) |
@@ -799,9 +799,9 @@
 | 794 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//315587154/331264554/382221) |
 | 795 | Unknown | ❌ Dead | - | [Link](http://atg100.xyz:80/0C61D0216480/08360415DD6D/1019034) |
 | 796 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXzz/play.m3u8?id=382221&|User-Agent=RANAPK) |
-| 797 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
+| 797 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8) |
 | 798 | 93.STAR UTSAV MOVIES | ❌ Dead | - | [Link](http://opplex.ch/3873620/9312/112977/112971) |
-| 799 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
+| 799 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_UTS/index.m3u8) |
 | 800 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=112977&|User-Agent=RANAPK) |
 | 801 | Unknown | ❌ Dead | - | [Link](https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8) |
 | 802 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/file/opplex/stream.m3u8?id=112977&e=.m3u8) |
