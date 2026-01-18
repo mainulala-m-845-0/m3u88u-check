@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-01-18 08:39:44 UTC
+**Checked:** 2026-01-18 09:32:27 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -938,7 +938,7 @@
 | 933 | Unknown | ❌ Dead | https://cdn-toffee.iptvbd.xyz/ | [Link](https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8) |
 | 934 | Unknown | ❌ Dead | https://mhdtvstream.com/ | [Link](https://mhdtvstream.com/live.php?id=571&extension=.m3u8) |
 | 935 | Unknown | ❌ Dead | https://colorsscreen.com/ | [Link](https://colorsscreen.com/live.php?id=571&extension=.m3u8) |
-| 936 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IND_TLCHIND/index.m3u8) |
+| 936 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IND_TLCHIND/index.m3u8) |
 | 937 | Unknown | ❌ Dead | - | [Link](https://mini.allinonereborn.online/jiotv-ww/app/live.php?id=479&e=.m3u8) |
 | 938 | Unknown | ❌ Dead | https://m.xigzo.store/ | [Link](https://m.xigzo.store/live.php?id=090bf33a56cb&e=.m3u8) |
 | 939 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=tlc_hd&format=.m3u8) |
@@ -1048,11 +1048,11 @@
 | 1043 | 121.9XM | ❌ Dead | - | [Link](https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8) |
 | 1044 | Unknown | ✅ Live | - | [Link](https://mix.drmlive.net/mix/xiaomi-66080.m3u8) |
 | 1045 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8) |
-| 1046 | Unknown | ✅ Live | - | [Link](https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10591) |
-| 1047 | Unknown | ✅ Live | - | [Link](https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8) |
+| 1046 | Unknown | ❌ Dead | - | [Link](https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10591) |
+| 1047 | Unknown | ❌ Dead | - | [Link](https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8) |
 | 1048 | 122.9X JALWA | ✅ Live | - | [Link](https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216) |
 | 1049 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8) |
-| 1050 | Unknown | ✅ Live | - | [Link](https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8) |
+| 1050 | Unknown | ❌ Dead | - | [Link](https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8) |
 | 1051 | 123.MUSIC INDIA | ❌ Dead | - | [Link](https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.mpd) |
 | 1052 | Unknown | ❌ Dead | - | [Link](http://watchindia.net:8880/49387/51659/2293) |
 | 1053 | Unknown | ❌ Dead | - | [Link](http://baskardo.vip/IN_MusicIndia/tracks-v1a1/mono.m3u8) |
