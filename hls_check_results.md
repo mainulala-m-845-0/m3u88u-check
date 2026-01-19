@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-01-19 06:55:21 UTC
+**Checked:** 2026-01-19 07:40:18 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -42,7 +42,7 @@
 | 37 | 5.NAGORIK TV | ❌ Dead | - | [Link](http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8) |
 | 38 | Unknown | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_No_Signal.mp4?updatedAt=1744014240118) |
 | 39 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8) |
-| 40 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8) |
+| 40 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8) |
 | 41 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/nagoriktv/index.m3u8) |
 | 42 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/nexustv/index.m3u8) |
 | 43 | Unknown | ❌ Dead | - | [Link](http://103.122.252.100:8080/NAGORIK-TV/index.fmp4.m3u8) |
@@ -57,7 +57,7 @@
 | 52 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3) |
 | 53 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8) |
 | 54 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/rtv/index.m3u8) |
-| 55 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8) |
+| 55 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8) |
 | 56 | 7.DESH TV HD | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=649941fa) |
 | 57 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12076) |
 | 58 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3) |
@@ -128,7 +128,7 @@
 | 123 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/dbcnews/index.m3u8) |
 | 124 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8) |
 | 125 | 16.INDEPENDENT TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v) |
-| 126 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
+| 126 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
 | 127 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12123) |
 | 128 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3) |
 | 129 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/independenttv/index.m3u8) |
@@ -142,7 +142,7 @@
 | 137 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3) |
 | 138 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8) |
 | 139 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/channel9/index.m3u8) |
-| 140 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8) |
+| 140 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8) |
 | 141 | 18.MAASRANGA TV | ❌ Dead | - | [Link](https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8) |
 | 142 | Unknown | ❌ Dead | - | [Link](https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8) |
 | 143 | 19.BOISHAKHI TV | ❌ Dead | - | [Link](http://tv.mototvlive.net:8880/TAJUL90/9001747424845/16379) |
@@ -157,14 +157,14 @@
 | 152 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/JIOBE/play.m3u8?id=2596) |
 | 153 | Unknown | ❌ Dead | - | [Link](https://re.fredflix.fun/playlist/6662e038-604e-4cdc-87f7-8ec1cdf77a5e/playlist.m3u8) |
 | 154 | Unknown | ❌ Dead | - | [Link](http://port.denver1769.fun/oplx5.m3u8?id=245920|User-Agent=Denver1769) |
-| 155 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8) |
+| 155 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8) |
 | 156 | Unknown | ❌ Dead | - | [Link](https://fifabd.site/OPLLXc/play.m3u8?id=245920|User-Agent=RANAPK) |
 | 157 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8) |
 | 158 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/live/6662e038-604e-4cdc-87f7-8ec1cdf77a5e/index.m3u8) |
 | 159 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/mohonatv/index.m3u8) |
 | 160 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e) |
 | 161 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/6662e038-604e-4cdc-87f7-8ec1cdf77a5e/index.m3u8) |
-| 162 | 21.CHANNEL 24 | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8) |
+| 162 | 21.CHANNEL 24 | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8) |
 | 163 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245969) |
 | 164 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3) |
 | 165 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8) |
@@ -196,7 +196,7 @@
 | 191 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8) |
 | 192 | 25.MOVIE BANGLA | ✅ Live | - | [Link](http://alvetv.com/moviebanglatv/8080/index.m3u8) |
 | 193 | 26.EKATTOR TV HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245915.ts) |
-| 194 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8) |
+| 194 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8) |
 | 195 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12122) |
 | 196 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245915) |
 | 197 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3) |
@@ -219,9 +219,9 @@
 | 214 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3) |
 | 215 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8) |
 | 216 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/news24/index.m3u8) |
-| 217 | Unknown | ✅ Live | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8) |
+| 217 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8) |
 | 218 | 29.EKHON TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e3058b7d) |
-| 219 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8) |
+| 219 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8) |
 | 220 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245943) |
 | 221 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3) |
 | 222 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8) |
@@ -246,7 +246,7 @@
 | 241 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/satv/index.m3u8) |
 | 242 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=d07563b0-7580-4cbd-a7c9-e67535c0164a&format=.m3u8) |
 | 243 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/d07563b0-7580-4cbd-a7c9-e67535c0164a/index.m3u8) |
-| 244 | 33.ENTER 10 BANGLA | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8) |
+| 244 | 33.ENTER 10 BANGLA | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8) |
 | 245 | Unknown | ❌ Dead | - | [Link](https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8) |
 | 246 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=58173) |
 | 247 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3) |
