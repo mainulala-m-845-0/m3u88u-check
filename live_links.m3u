@@ -54,7 +54,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://stvlive.net:8080/tsports1/index.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 http://stvlive.net:8080/starsports2/index.m3u8
-http://45.148.145.57/AF_S2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",57.WILLOW 2 HD
 https://criccoder.pages.dev/astro.m3u8
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
@@ -75,8 +74,6 @@ https://mix.drmlive.net/mix/xiaomi-66080.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10591
 https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MmBfHV/9x-Jalwa.jpg" group-title="Music",122.9X JALWA
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8

@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-01-20 09:44:38 UTC
+**Checked:** 2026-01-20 10:41:35 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -374,7 +374,7 @@
 | 369 | Unknown | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/167579.ts) |
 | 370 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IND_SL2/index.m3u8) |
 | 371 | Unknown | ❌ Dead | - | [Link](http://isp.top10bhaluka.com/tv/stream.m3u8?id=SPL-2) |
-| 372 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
+| 372 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/AF_S2/index.m3u8) |
 | 373 | Unknown | ❌ Dead | - | [Link](http://dns.denver1769.fun/Files/Port/oplx5.m3u8?id=167579|User-Agent=Denver1769) |
 | 374 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/op141.m3u8?id=167579) |
 | 375 | Unknown | ❌ Dead | - | [Link](https://rex-streaming.vercel.app/api/x/167579.m3u8) |
@@ -1050,7 +1050,7 @@
 | 1045 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8) |
 | 1046 | Unknown | ✅ Live | - | [Link](https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10591) |
 | 1047 | Unknown | ✅ Live | - | [Link](https://wiselp.wiseplayout.com/9XM/SD504/SD504.m3u8) |
-| 1048 | 122.9X JALWA | ✅ Live | - | [Link](https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216) |
+| 1048 | 122.9X JALWA | ❌ Dead | - | [Link](https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216) |
 | 1049 | Unknown | ✅ Live | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8) |
 | 1050 | Unknown | ✅ Live | - | [Link](https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8) |
 | 1051 | 123.MUSIC INDIA | ❌ Dead | - | [Link](https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.mpd) |
