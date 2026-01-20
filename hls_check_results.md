@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-01-20 01:53:23 UTC
+**Checked:** 2026-01-20 02:27:56 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
