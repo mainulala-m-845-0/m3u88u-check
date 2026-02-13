@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-02-13 20:53:59 UTC
+**Checked:** 2026-02-13 21:48:29 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -101,7 +101,7 @@
 | 96 | Unknown | ✅ Live | - | [Link](https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8) |
 | 97 | Unknown | ❌ Dead | - | [Link](https://mytvbangla.com/0.m3u8) |
 | 98 | 13.JAMUNA TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=89b4zb3d) |
-| 99 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8) |
+| 99 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8) |
 | 100 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12124) |
 | 101 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3) |
 | 102 | Unknown | ❌ Dead | - | [Link](https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8) |
@@ -128,7 +128,7 @@
 | 123 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/dbcnews/index.m3u8) |
 | 124 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8) |
 | 125 | 16.INDEPENDENT TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v) |
-| 126 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
+| 126 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
 | 127 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12123) |
 | 128 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3) |
 | 129 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/independenttv/index.m3u8) |
@@ -969,7 +969,7 @@
 | 964 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX2/play.m3u8?id=150478) |
 | 965 | Unknown | ❌ Dead | - | [Link](https://its-ferdos-alom.top/iptv/Op/live.php?id=150478) |
 | 966 | Unknown | ❌ Dead | https://playyonogames.in/ | [Link](https://playyonogames.in/live.php?id=816&format=.m3u8) |
-| 967 | Unknown | ❌ Dead | - | [Link](https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8) |
+| 967 | Unknown | ✅ Live | - | [Link](https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8) |
 | 968 | Unknown | ❌ Dead | https://m.xigzo.store/ | [Link](https://m.xigzo.store/live.php?id=eb6b38bdd902&e=.m3u8) |
 | 969 | Unknown | ❌ Dead | - | [Link](https://allottplay.com/tv/toffee/live.php?id=cartoon_network_hd&format=.m3u8) |
 | 970 | 112.SONIC | ❌ Dead | https://moonkerala.xyz/ | [Link](https://moonkerala.xyz/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3774149) |
@@ -1105,7 +1105,7 @@
 | 1100 | 129.8XM | ❌ Dead | - | [Link](https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8) |
 | 1101 | Unknown | ✅ Live | - | [Link](https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8) |
 | 1102 | 130.JALWA | ❌ Dead | - | [Link](https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8) |
-| 1103 | Unknown | ❌ Dead | - | [Link](https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8) |
+| 1103 | Unknown | ✅ Live | - | [Link](https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8) |
 | 1104 | 131.YRF MUSIC | ❌ Dead | - | [Link](https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8) |
 | 1105 | Unknown | ✅ Live | - | [Link](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8) |
 | 1106 | 132.E24 MUSIC | ❌ Dead | - | [Link](https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8) |
