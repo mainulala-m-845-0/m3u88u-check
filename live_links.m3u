@@ -23,7 +23,6 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 https://tvsen6.aynaott.com/dbcnews/index.m3u8
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
@@ -36,7 +35,6 @@ https://tvsen6.aynaott.com/asiantv/index.m3u8
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNP4mNjZ/Movie-Bangla.jpg" group-title="Movie",25.MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
 https://tvsen6.aynaott.com/news24/index.m3u8
@@ -46,8 +44,6 @@ https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 https://tvsen6.aynaott.com/satv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsWbZNfS/Enterteen.jpg" group-title="Entertainment",33.ENTER 10 BANGLA
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -59,10 +55,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTPxwKmy/Dw.jpg" group-title="News",39.DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-http://stvlive.net:8080/tsports1/index.m3u8
-http://103.175.242.10:8080/tsports1/index.m3u8
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
-http://stvlive.net:8080/starsports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",57.WILLOW 2 HD
 https://criccoder.pages.dev/astro.m3u8
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
