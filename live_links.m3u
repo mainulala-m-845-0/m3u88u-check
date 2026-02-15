@@ -22,12 +22,15 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 https://tvsen6.aynaott.com/dbcnews/index.m3u8
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
 https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMvMycjq/Channel-24.jpg" group-title="News",21.CHANNEL 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 https://tvsen6.aynaott.com/channel24/index.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/asiantv/index.m3u8
@@ -42,6 +45,8 @@ https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 https://tvsen6.aynaott.com/satv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsWbZNfS/Enterteen.jpg" group-title="Entertainment",33.ENTER 10 BANGLA
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
