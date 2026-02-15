@@ -27,6 +27,8 @@ https://tvsen6.aynaott.com/dbcnews/index.m3u8
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
+https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 https://tvsen6.aynaott.com/channel24/index.m3u8
@@ -45,6 +47,8 @@ https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 https://tvsen6.aynaott.com/satv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsWbZNfS/Enterteen.jpg" group-title="Entertainment",33.ENTER 10 BANGLA
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
@@ -69,6 +73,7 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://tvsen6.aynaott.com/Goldmines/index.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
