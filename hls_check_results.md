@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-02-18 18:59:43 UTC
+**Checked:** 2026-02-18 19:09:59 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -92,7 +92,7 @@
 | 87 | 11.Ekushey ETV | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245937.ts) |
 | 88 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12080) |
 | 89 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245937) |
-| 90 | Unknown | ✅ Live | - | [Link](https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
+| 90 | Unknown | ❌ Dead | - | [Link](https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
 | 91 | Unknown | ✅ Live | - | [Link](http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
 | 92 | Unknown | ❌ Dead | - | [Link](https://ayna-three.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8) |
 | 93 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/etv/index.m3u8) |
