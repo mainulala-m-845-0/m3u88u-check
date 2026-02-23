@@ -14,6 +14,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1mY4Dj/TV-9-Bangla.jpg" group-title="News",37.TV 9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtg30Vgf/Abp-Ananda.jpg" group-title="News",38.ABP ANANDA
@@ -22,7 +24,6 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://103.73.107.122:3255/TSportsHD/tracks-v1a1/mono.m3u8
 http://stvlive.net:8080/starsports2/index.m3u8
-http://45.148.145.57/AF_S2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",57.WILLOW 2 HD
 https://criccoder.pages.dev/astro.m3u8
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
