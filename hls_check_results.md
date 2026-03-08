@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-03-08 12:54:05 UTC
+**Checked:** 2026-03-08 13:08:59 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -93,7 +93,7 @@
 | 88 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12080) |
 | 89 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245937) |
 | 90 | Unknown | ✅ Live | - | [Link](https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
-| 91 | Unknown | ✅ Live | - | [Link](http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
+| 91 | Unknown | ❌ Dead | - | [Link](http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8) |
 | 92 | Unknown | ❌ Dead | - | [Link](https://ayna-three.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8) |
 | 93 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/etv/index.m3u8) |
 | 94 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8) |
@@ -194,7 +194,7 @@
 | 189 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/banglatv/index.m3u8) |
 | 190 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&format=.m3u8) |
 | 191 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8) |
-| 192 | 25.MOVIE BANGLA | ✅ Live | - | [Link](http://alvetv.com/moviebanglatv/8080/index.m3u8) |
+| 192 | 25.MOVIE BANGLA | ❌ Dead | - | [Link](http://alvetv.com/moviebanglatv/8080/index.m3u8) |
 | 193 | 26.EKATTOR TV HD | ❌ Dead | - | [Link](http://xtv.ooo:8080/kamran800/800kamran/245915.ts) |
 | 194 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8) |
 | 195 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12122) |
@@ -269,7 +269,7 @@
 | 264 | 41.T SPORTS HD | ❌ Dead | - | [Link](http://xtv.ooo:8080//kamran800/800kamran/167590.ts) |
 | 265 | Unknown | ❌ Dead | - | [Link](https://tatatv.stevosure123.workers.dev/video.m3u8?id=12104) |
 | 266 | Unknown | ❌ Dead | - | [Link](http://kst.moonplex.net:8080/CH2/index.m3u8) |
-| 267 | Unknown | ✅ Live | - | [Link](http://stvlive.net:8080/tsports1/index.m3u8) |
+| 267 | Unknown | ❌ Dead | - | [Link](http://stvlive.net:8080/tsports1/index.m3u8) |
 | 268 | Unknown | ❌ Dead | https://bd.yflix.top/ | [Link](https://bd.yflix.top/live/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8) |
 | 269 | Unknown | ❌ Dead | - | [Link](http://103.122.252.100:8080/T-SPORTS/index.m3u8) |
 | 270 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.fun/sansat.m3u8/live.php?id=756462) |
