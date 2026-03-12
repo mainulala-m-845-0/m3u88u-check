@@ -1,12 +1,12 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-03-12 21:44:39 UTC
+**Checked:** 2026-03-12 22:37:42 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
 | 1 | moajzimofficials | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_Official_Connection.mp4?updatedAt=1749719086168) |
 | 2 | Unknown | ❌ Dead | - | [Link](https://i.postimg.cc/mZjmHNbb/IMG-1743439450071-2.png) |
 | 3 | Unknown | ❌ Dead | - | [Link](https://allinonereborn.com/tata-tv1.php?id=58801) |
-| 4 | Unknown | ❌ Dead | - | [Link](https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8) |
+| 4 | Unknown | ✅ Live | - | [Link](https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8) |
 | 5 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080//movie/315587154/331264554/391478.mkv) |
 | 6 | Unknown | ✅ Live | - | [Link](https://ik.imagekit.io/moajzim47/MoAj_STREAMZ_PLAY_OFFICIAL.mp4?updatedAt=1743421801221) |
 | 7 | Unknown | ❌ Dead | - | [Link](http://opplex.ch:8080/movie/SHO2393/4702393/393956.mkv) |
@@ -164,7 +164,7 @@
 | 159 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/mohonatv/index.m3u8) |
 | 160 | Unknown | ❌ Dead | - | [Link](https://xfireflix.fun/Ayna/stream.php?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e) |
 | 161 | Unknown | ❌ Dead | - | [Link](https://live.mncdn.shop/6662e038-604e-4cdc-87f7-8ec1cdf77a5e/index.m3u8) |
-| 162 | 21.CHANNEL 24 | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8) |
+| 162 | 21.CHANNEL 24 | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8) |
 | 163 | Unknown | ❌ Dead | RANAPK | [Link](https://fifabd.site/OPLLX3/play.m3u8?id=245969) |
 | 164 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3) |
 | 165 | Unknown | ❌ Dead | - | [Link](https://aynapubluc.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8) |
@@ -1023,7 +1023,7 @@
 | 1018 | Unknown | ❌ Dead | - | [Link](https://fifax2bd.xyz/OPPLEX/play.php?id=167551&format=.m3u8|User-Agent=RANAPK) |
 | 1019 | 118.DISCOVERY KIDS | ❌ Dead | - | [Link](https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8) |
 | 1020 | Unknown | ❌ Dead | https://cdn-toffee.iptvbd.xyz/ | [Link](https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_kids&e=.m3u8) |
-| 1021 | Unknown | ❌ Dead | - | [Link](http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8) |
+| 1021 | Unknown | ✅ Live | - | [Link](http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8) |
 | 1022 | Unknown | ❌ Dead | - | [Link](http://opplex.tv:8080/live/315587154/331264554/76723.ts) |
 | 1023 | Unknown | ❌ Dead | https://mhdtvstream.com | [Link](https://mhdtvstream.com/live.php?id=554&extension=.m3u8) |
 | 1024 | Unknown | ❌ Dead | - | [Link](http://port.denver1769.fun/oplx5.m3u8?id=76723|User-Agent=Denver1769) |
