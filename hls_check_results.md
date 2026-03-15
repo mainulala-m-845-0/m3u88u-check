@@ -1,5 +1,5 @@
 # 📺 HLS Playlist Checker
-**Checked:** 2026-03-15 14:41:13 UTC
+**Checked:** 2026-03-15 15:39:14 UTC
 
 | # | Channel | Status | Referer | Link |
 |---|----------|--------|----------|------|
@@ -128,7 +128,7 @@
 | 123 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/dbcnews/index.m3u8) |
 | 124 | Unknown | ❌ Dead | https://statiics.ncare.live/ | [Link](https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8) |
 | 125 | 16.INDEPENDENT TV | ❌ Dead | - | [Link](https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v) |
-| 126 | Unknown | ✅ Live | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
+| 126 | Unknown | ❌ Dead | - | [Link](https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8) |
 | 127 | Unknown | ❌ Dead | - | [Link](https://ranapk.spidy.online/MACX/TATACC/play.php?id=12123) |
 | 128 | Unknown | ❌ Dead | - | [Link](http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3) |
 | 129 | Unknown | ❌ Dead | - | [Link](https://tvsen6.aynaott.com/independenttv/index.m3u8) |
